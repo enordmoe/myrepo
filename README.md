@@ -3,7 +3,9 @@ testing my setup
 <<<<<<< HEAD
 add a second line
 add a third line
-add a fourth line
+*removed the fourth line and added an italicize dline*
 add a fifth line  
 
 One more line to add
+
+Now adding a line at home
