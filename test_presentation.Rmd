@@ -1,5 +1,7 @@
 ---
 title: "Test Presentation"
+author: "Eric Nordmoe"
+date: "12/13/20"
 output: ioslides_presentation
 ---
 
